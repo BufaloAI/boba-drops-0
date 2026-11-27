@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(246, 232, 234);
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.top-navbar {
+    position: sticky;
+}
